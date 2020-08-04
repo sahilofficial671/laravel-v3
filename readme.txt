@@ -5,4 +5,4 @@
 /* Laravel - V2 */
 
 All from V1
-1. User Email Verification Implemented
+1. User Email Verification Implemented.
